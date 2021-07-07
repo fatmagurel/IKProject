@@ -1,0 +1,17 @@
+C:\Users\user\Source\Workspaces\IK Project Last\PropTabTabIK\PropTabTabIK.DataAccess\bin\Debug\netcoreapp3.1\PropTabTabIK.DataAccess.deps.json
+C:\Users\user\Source\Workspaces\IK Project Last\PropTabTabIK\PropTabTabIK.DataAccess\bin\Debug\netcoreapp3.1\PropTabTabIK.DataAccess.runtimeconfig.json
+C:\Users\user\Source\Workspaces\IK Project Last\PropTabTabIK\PropTabTabIK.DataAccess\bin\Debug\netcoreapp3.1\PropTabTabIK.DataAccess.runtimeconfig.dev.json
+C:\Users\user\Source\Workspaces\IK Project Last\PropTabTabIK\PropTabTabIK.DataAccess\bin\Debug\netcoreapp3.1\PropTabTabIK.DataAccess.dll
+C:\Users\user\Source\Workspaces\IK Project Last\PropTabTabIK\PropTabTabIK.DataAccess\bin\Debug\netcoreapp3.1\PropTabTabIK.DataAccess.pdb
+C:\Users\user\Source\Workspaces\IK Project Last\PropTabTabIK\PropTabTabIK.DataAccess\bin\Debug\netcoreapp3.1\PropTabTabIK.Core.dll
+C:\Users\user\Source\Workspaces\IK Project Last\PropTabTabIK\PropTabTabIK.DataAccess\bin\Debug\netcoreapp3.1\PropTabTabIK.Entities.dll
+C:\Users\user\Source\Workspaces\IK Project Last\PropTabTabIK\PropTabTabIK.DataAccess\bin\Debug\netcoreapp3.1\PropTabTabIK.Core.pdb
+C:\Users\user\Source\Workspaces\IK Project Last\PropTabTabIK\PropTabTabIK.DataAccess\bin\Debug\netcoreapp3.1\PropTabTabIK.Entities.pdb
+C:\Users\user\Source\Workspaces\IK Project Last\PropTabTabIK\PropTabTabIK.DataAccess\obj\Debug\netcoreapp3.1\PropTabTabIK.DataAccess.csprojAssemblyReference.cache
+C:\Users\user\Source\Workspaces\IK Project Last\PropTabTabIK\PropTabTabIK.DataAccess\obj\Debug\netcoreapp3.1\PropTabTabIK.DataAccess.AssemblyInfoInputs.cache
+C:\Users\user\Source\Workspaces\IK Project Last\PropTabTabIK\PropTabTabIK.DataAccess\obj\Debug\netcoreapp3.1\PropTabTabIK.DataAccess.AssemblyInfo.cs
+C:\Users\user\Source\Workspaces\IK Project Last\PropTabTabIK\PropTabTabIK.DataAccess\obj\Debug\netcoreapp3.1\PropTabTabIK.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Workspaces\IK Project Last\PropTabTabIK\PropTabTabIK.DataAccess\obj\Debug\netcoreapp3.1\PropTabTabIK.DataAccess.csproj.CopyComplete
+C:\Users\user\Source\Workspaces\IK Project Last\PropTabTabIK\PropTabTabIK.DataAccess\obj\Debug\netcoreapp3.1\PropTabTabIK.DataAccess.dll
+C:\Users\user\Source\Workspaces\IK Project Last\PropTabTabIK\PropTabTabIK.DataAccess\obj\Debug\netcoreapp3.1\PropTabTabIK.DataAccess.pdb
+C:\Users\user\Source\Workspaces\IK Project Last\PropTabTabIK\PropTabTabIK.DataAccess\obj\Debug\netcoreapp3.1\PropTabTabIK.DataAccess.genruntimeconfig.cache

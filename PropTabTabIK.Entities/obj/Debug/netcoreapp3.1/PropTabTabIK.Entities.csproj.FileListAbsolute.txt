@@ -1,0 +1,12 @@
+C:\Users\user\Source\Workspaces\IK Project Last\PropTabTabIK\PropTabTabIK.Entities\bin\Debug\netcoreapp3.1\PropTabTabIK.Entities.deps.json
+C:\Users\user\Source\Workspaces\IK Project Last\PropTabTabIK\PropTabTabIK.Entities\bin\Debug\netcoreapp3.1\PropTabTabIK.Entities.dll
+C:\Users\user\Source\Workspaces\IK Project Last\PropTabTabIK\PropTabTabIK.Entities\bin\Debug\netcoreapp3.1\PropTabTabIK.Entities.pdb
+C:\Users\user\Source\Workspaces\IK Project Last\PropTabTabIK\PropTabTabIK.Entities\bin\Debug\netcoreapp3.1\PropTabTabIK.Core.dll
+C:\Users\user\Source\Workspaces\IK Project Last\PropTabTabIK\PropTabTabIK.Entities\bin\Debug\netcoreapp3.1\PropTabTabIK.Core.pdb
+C:\Users\user\Source\Workspaces\IK Project Last\PropTabTabIK\PropTabTabIK.Entities\obj\Debug\netcoreapp3.1\PropTabTabIK.Entities.csprojAssemblyReference.cache
+C:\Users\user\Source\Workspaces\IK Project Last\PropTabTabIK\PropTabTabIK.Entities\obj\Debug\netcoreapp3.1\PropTabTabIK.Entities.AssemblyInfoInputs.cache
+C:\Users\user\Source\Workspaces\IK Project Last\PropTabTabIK\PropTabTabIK.Entities\obj\Debug\netcoreapp3.1\PropTabTabIK.Entities.AssemblyInfo.cs
+C:\Users\user\Source\Workspaces\IK Project Last\PropTabTabIK\PropTabTabIK.Entities\obj\Debug\netcoreapp3.1\PropTabTabIK.Entities.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Workspaces\IK Project Last\PropTabTabIK\PropTabTabIK.Entities\obj\Debug\netcoreapp3.1\PropTabTabIK.Entities.csproj.CopyComplete
+C:\Users\user\Source\Workspaces\IK Project Last\PropTabTabIK\PropTabTabIK.Entities\obj\Debug\netcoreapp3.1\PropTabTabIK.Entities.dll
+C:\Users\user\Source\Workspaces\IK Project Last\PropTabTabIK\PropTabTabIK.Entities\obj\Debug\netcoreapp3.1\PropTabTabIK.Entities.pdb
